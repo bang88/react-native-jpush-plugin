@@ -101,5 +101,3 @@ JPushModule.getInfo((map) => {
 - [bang88](https://github.com/bang88)
 
 
-
-
